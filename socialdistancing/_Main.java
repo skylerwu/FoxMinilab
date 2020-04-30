@@ -4,6 +4,7 @@ package socialdistancing;
 public class _Main {
 	Settings sets;
 	Control control;
+	int commit;
 
 	/* 
 	 * Entry point, starts Settings Panel
